@@ -1,0 +1,10 @@
+* Quick start
+git add <file>
+git commit -m <comment>
+
+* Branches
+git branch -M <branch name>
+
+* remote git on github
+git remote add origin https://github.com/isawthesign/semcs.git
+git push -u origin <branch name>
